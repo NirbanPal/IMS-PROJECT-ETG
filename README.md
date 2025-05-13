@@ -36,7 +36,7 @@ This is a **Jupyter Notebook-based Inventory and Billing System** built using **
     cd inventory-billing-system
 
 ----
-##Usage Instructions
+## Usage Instructions
 
 The notebook is interactive and broken into cells. Run the cells step-by-step:
 
