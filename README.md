@@ -27,8 +27,6 @@ This is a **Jupyter Notebook-based Inventory and Billing System** built using **
 
 ---
 
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
