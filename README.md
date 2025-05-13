@@ -31,7 +31,7 @@ This is a **Jupyter Notebook-based Inventory and Billing System** built using **
 
 ### 1. Clone the Repository
 
-    ```bash
+
     git clone https://github.com/yourusername/inventory-billing-system.git
     cd inventory-billing-system
 
